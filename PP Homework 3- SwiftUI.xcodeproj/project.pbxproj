@@ -11,6 +11,7 @@
 		2F7D6AC928828BC2002EF82E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F7D6AC828828BC2002EF82E /* ContentView.swift */; };
 		2F7D6ACB28828BC6002EF82E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F7D6ACA28828BC6002EF82E /* Assets.xcassets */; };
 		2F7D6ACE28828BC6002EF82E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F7D6ACD28828BC6002EF82E /* Preview Assets.xcassets */; };
+		2FE33CF42883CE4F0017BBA4 /* characterBio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FE33CF32883CE4F0017BBA4 /* characterBio.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2F7D6AC828828BC2002EF82E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2F7D6ACA28828BC6002EF82E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2F7D6ACD28828BC6002EF82E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2FE33CF32883CE4F0017BBA4 /* characterBio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = characterBio.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				2F7D6AC628828BC2002EF82E /* PP_Homework_3__SwiftUIApp.swift */,
 				2F7D6AC828828BC2002EF82E /* ContentView.swift */,
+				2FE33CF32883CE4F0017BBA4 /* characterBio.swift */,
 				2F7D6ACA28828BC6002EF82E /* Assets.xcassets */,
 				2F7D6ACC28828BC6002EF82E /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2F7D6AC928828BC2002EF82E /* ContentView.swift in Sources */,
+				2FE33CF42883CE4F0017BBA4 /* characterBio.swift in Sources */,
 				2F7D6AC728828BC2002EF82E /* PP_Homework_3__SwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
